@@ -55,6 +55,6 @@ If you have any questions or need further assistance, feel free to contact the r
 
 Maintainer: [NyxGleam](https://github.com/NyxGleam)
 
-Email: [nebulagames.roblox@gmail.com]
+Email: nebulagames.roblox@gmail.com
 
 GitHub: [NyxGleam](https://github.com/NyxGleam)
