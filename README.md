@@ -46,8 +46,8 @@ When you report a bug, the information will be sent to a specific channel for tr
 This will log the following in the designated bug report channel:
 
 - **Report's ID**: 1234-5678-9012
-- **Description**: The health bardoes not go down
-- **Proof**: [Grand Videl](https://youtu.be/dQw4w9WgXcQ?si=rirakqLKSDsasVqq)
+- **Description**: The health does not go down
+- **Proof**: [Grand Video](https://youtu.be/dQw4w9WgXcQ?si=rirakqLKSDsasVqq)
 
 ## Contact
 
