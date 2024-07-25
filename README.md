@@ -54,5 +54,7 @@ This will log the following in the designated bug report channel:
 If you have any questions or need further assistance, feel free to contact the repository maintainer:
 
 Maintainer: [NyxGleam](https://github.com/NyxGleam)
+
 Email: [nebulagames.roblox@gmail.com]
+
 GitHub: [NyxGleam](https://github.com/NyxGleam)
