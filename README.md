@@ -41,7 +41,7 @@ If you encounter any bugs or issues while playing the game, please report them u
 When you report a bug, the information will be sent to a specific channel for tracking. For example:
 
 ```sh
-/reportbug descripcion="There is a glitch in level 3" prueba="http://example.com/glitch-video"
+/reportbug description="There is a glitch in level 3" proof="http://example.com/glitch-video"
 ```
 This will log the following in the designated bug report channel:
 
@@ -53,6 +53,6 @@ This will log the following in the designated bug report channel:
 
 If you have any questions or need further assistance, feel free to contact the repository maintainer:
 
-Maintainer: [NyxGleam]
+Maintainer: [NyxGleam](https://github.com/NyxGleam)
 Email: [nebulagames.roblox@gmail.com]
-GitHub: [NyxGleam]
+GitHub: [NyxGleam](https://github.com/NyxGleam)
