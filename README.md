@@ -1,6 +1,6 @@
 # **Beats Game Update Log**
 
-Welcome to the official update log repository for our rhythm game. This repository is used to track all changes, updates, and improvements made to the game. Below you'll find instructions on how to contribute and keep this log updated.
+Welcome to the official update log repository for Beats Game. This repository is used to track all changes, updates, and improvements made to the game. Below you'll find instructions on how to contribute and keep this log updated.
 
 ### Table of Contents
 
