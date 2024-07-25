@@ -1,4 +1,4 @@
-# **Update Log for Rhythm Game**
+# **Beats Game Update Log**
 
 Welcome to the official update log repository for our rhythm game. This repository is used to track all changes, updates, and improvements made to the game. Below you'll find instructions on how to contribute and keep this log updated.
 
