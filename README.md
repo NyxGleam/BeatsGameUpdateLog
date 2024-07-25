@@ -42,3 +42,17 @@ When you report a bug, the information will be sent to a specific channel for tr
 
 ```sh
 /reportbug descripcion="There is a glitch in level 3" prueba="http://example.com/glitch-video"
+```
+This will log the following in the designated bug report channel:
+
+- **Report's ID**: 1234-5678-9012
+- **Description**: There is a glitch in level 3
+- **Proof**: Glitch Video
+
+## Contact
+
+If you have any questions or need further assistance, feel free to contact the repository maintainer:
+
+Maintainer: [NyxGleam]
+Email: [nebulagames.roblox@gmail.com]
+GitHub: [NyxGleam]
