@@ -41,13 +41,13 @@ If you encounter any bugs or issues while playing the game, please report them u
 When you report a bug, the information will be sent to a specific channel for tracking. For example:
 
 ```sh
-/reportbug description="There is a glitch in level 3" proof="http://example.com/glitch-video"
+/reportbug description="The health does not go down" proof="https://youtu.be/dQw4w9WgXcQ?si=rirakqLKSDsasVqq"
 ```
 This will log the following in the designated bug report channel:
 
 - **Report's ID**: 1234-5678-9012
-- **Description**: There is a glitch in level 3
-- **Proof**: Glitch Video
+- **Description**: The health bardoes not go down
+- **Proof**: [Grand Videl](https://youtu.be/dQw4w9WgXcQ?si=rirakqLKSDsasVqq)
 
 ## Contact
 
